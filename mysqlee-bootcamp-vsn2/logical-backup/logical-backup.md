@@ -1,4 +1,4 @@
-# MySQL Logical Backup
+# MySQL Logical Backup with MySQL Shell
 
 ## Introduction
 The mysqldump client utility performs logical backups, producing a set of SQL statements that can be executed to reproduce the original database object definitions and table data. 

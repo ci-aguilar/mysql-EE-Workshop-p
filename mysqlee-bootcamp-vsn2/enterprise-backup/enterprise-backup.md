@@ -1,4 +1,4 @@
-# MySQL Enterprise Backup
+# MySQL Binary Backup with MySQL Enterprise Backup
 
 ## Introduction
 

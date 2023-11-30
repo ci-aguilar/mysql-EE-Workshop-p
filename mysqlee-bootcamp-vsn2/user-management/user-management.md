@@ -1,4 +1,4 @@
-# User management
+# User Management. Grants, Privileges and Roles
 
 ## Introduction
 In this lab you will explore user creation, their privileges and roles.
